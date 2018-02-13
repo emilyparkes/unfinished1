@@ -9,7 +9,7 @@
 } */
 
 .header {
-  background-image: url('./images/rubybeach.png');\
+  background-image: url('./images/rubybeach.png');
   background-size: cover;
   margin-bottom: 2em;
   text-align: center;

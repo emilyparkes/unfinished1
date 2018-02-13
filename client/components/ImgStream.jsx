@@ -1,11 +1,26 @@
-import React from 'react'
+// import React from 'react'
 
-function ImgStream (props) {
-  return (
-    <div className='imgstream'>
-      <div>Images from insta here</div>
-    </div>
-  )
-}
+// import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel'
+// import 'pure-react-carousel/dist/react-carousel.es.css'
+ 
+// function ImgStream() {
+//   render() 
+//     return (
+//       <CarouselProvider
+//         naturalSlideWidth={100}
+//         naturalSlideHeight={125}
+//         totalSlides={3}
+//       >        
+//         <Slider>
+//           <Slide index={0} img src='../../server/public/images/bwaisha.png'>I am the first Slide.</Slide>
+//           <Slide index={1}>I am the second Slide.</Slide>
+//           <Slide index={2}>I am the third Slide.</Slide>
+//         </Slider>
+//         <ButtonBack>Back</ButtonBack>
+//         <ButtonNext>Next</ButtonNext>
+//       </CarouselProvider>
+//     )
+//   }
 
-export default ImgStream
+
+// export default ImgStream

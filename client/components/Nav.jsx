@@ -8,8 +8,8 @@ import Contact from './Contact'
 function Nav() {
   return (
     <div>
-      <nav className='nav'>
-        <ul className='nav-list'>
+      <nav className='navbar'>
+        <ul className='navbar'>
           <li className='nav-item'>
             <a href="http://localhost:3000/#/">Home</a>
             <Route exact path='/' className='pure-button'></Route>

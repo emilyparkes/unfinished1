@@ -21,10 +21,10 @@ class App extends React.Component {
           <div>
             <div className='tophalf'>
               <Nav />
-              <Header />
             </div>
-            <div className='lowerhalf'>
-              <Route path='/recentpost' component={RPost} />
+            <div className='content'>
+              <Header />
+              <RPost />
               {/* <ImgStream /> */}
               <Footer />
             </div>
